@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
