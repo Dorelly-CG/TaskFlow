@@ -3,7 +3,7 @@
 
 TaskFlow es una API REST desarrollada con ASP.NET Core 8, Entity Framework Core y SQL Server para la gestión de tareas.
 
-Este proyecto fue desarrollado como parte de una prueba técnica e implementa una arquitectura por capas, operaciones CRUD, filtros, paginacion, validaciones de negocio, manejo global de errores y un reporte generado mediante un procedimiento almacenado de SQL Server.
+Este proyecto implementa una arquitectura por capas, operaciones CRUD, filtros, paginacion, validaciones de negocio, manejo global de errores y un reporte generado mediante un procedimiento almacenado de SQL Server.
 
 ## Tecnologias
 
@@ -33,5 +33,3 @@ Los scripts de creación de la base de datos, restricciones, indices, trigger, p
 2. Configurar la cadena de conexión en 'appsettings.json'
 3. Ejecutar la aplicación
 4. Acceder a la documentación de la API mediante Swagger
-
-https://localhost:<puerto>/swagger
